@@ -53,13 +53,6 @@
 
 ---
 
-
-## 📈 Profile Views
-
-![](https://komarev.com/ghpvc/?username=srimathi-s-codes&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 ## 💡 Quote
 
 > "Consistency beats talent when talent doesn't work hard."
